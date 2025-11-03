@@ -1,8 +1,8 @@
 import React from "react";
-import Card from "./component/Card";
+import Card from "./Card";
 import {useState} from "react";
-import "./App.css";
-function App() {
+ 
+function App0() {
   const [count, setCount] = useState(0);
 
   function handleClick() {
@@ -21,4 +21,4 @@ function App() {
   );
 }
 
-export default App;
+export default App0;
