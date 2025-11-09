@@ -1,0 +1,14 @@
+ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+    background: white;
+    border-radius: 5px;
+}
+
+.active-link{
+    background: rgb(122, 241, 233);
+        border-radius: 5px;
+
+}
